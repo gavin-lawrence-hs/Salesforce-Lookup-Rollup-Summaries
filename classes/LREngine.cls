@@ -28,6 +28,11 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 /**
     LREngine("L"ookup "R"ollup Engine) : This class simplifies rolling up on the child records in lookup relationship.
 */
+
+/*
+   Using GitHub for the first time, testing my ability to edit code
+*/
+
 public class LREngine {
     
     /*
